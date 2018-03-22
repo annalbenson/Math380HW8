@@ -2,7 +2,7 @@ public class MonteCarloApprox {
 
     public static void main(String [] args){
 
-        // Note:
+        // Note: Uploaded to GitHub on 3/22/18
 
         /*
         System.out.println("Problem Three, n = 100, pi = " + ProblemThree(100));
